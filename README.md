@@ -20,6 +20,6 @@ npm start
 License
 For open source projects, as is.
 
-![}(Images/DBZ.jpg)
+![](Images/DBZ.jpg)
 
 
