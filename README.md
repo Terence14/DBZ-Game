@@ -4,6 +4,7 @@
 Drangon ball Z Game.
 
 <!-- Description -->
+Clicky Game
 This game was longly created to display my understanding of react components 
 
 <!-- Badges -->
